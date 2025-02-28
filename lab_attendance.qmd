@@ -1,0 +1,9 @@
+---
+title: "lab_attendance"
+format: html
+name: Madi Schartz
+---
+
+## 
+
+##I have learned how to make website with quarto and Github :)
